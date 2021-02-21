@@ -9,8 +9,9 @@
 <body>
     <h1>Reproduzindo Áudio</h1>
     <p>Vamos aprender a reproduzir áudios em HTML5.</p>
-    <audio src="midia/enoquerochaavozdotrovao.wav  " controls autoplay></audio>
-    
+    <audio preload="metadata" autoplay controls loop="">
+        <source src="midia/enoquerochaavozdotrovao.wav" type="audio/wav">
+    </audio> 
     
 </body>
 </html>
