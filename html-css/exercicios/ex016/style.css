@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+
+    background-image: url("imagens/image_01.jpg");
+}
+
+h1 {
+
+    color: black;
+    
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    color:black;
+    text-align: justify;
+}
+
+main{
+
+    background-color: white;
+}
