@@ -15,3 +15,12 @@ h1#principal {
 h2 {
     color: rgb(107, 199, 107);
 }
+.basico {
+    color: rgb(0, 255, 0);
+}
+.intermediario {
+    color: rgb(255, 0, 0);
+}
+.avancado {
+    color: rgb(0, 0, 255);
+}
