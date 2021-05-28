@@ -1,0 +1,38 @@
+div {
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    border: solid black;
+    height: 200px;
+    width: 200px;
+}
+#d1 {
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    border: solid rgb(69, 67, 207);
+    height: 200px;
+    width: 200px;
+
+}
+#d2 {
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    border: solid rgb(41, 177, 28);
+    height: 200px;
+    width: 200px;
+
+}
+#d3 {
+
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    border: solid rgb(190, 29, 29);
+    height: 200px;
+    width: 200px;
+}
+div:hover {
+    background-color: yellow;
+}
